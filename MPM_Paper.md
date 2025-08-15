@@ -1,7 +1,7 @@
-# 3D Gaussian Splatting Papers Before 2024/07/01
+# Material Particle Method (MPM)
 
-#### [1] Lightweight Predictive 3D Gaussian Splats
-- **🧑‍🔬 作者**：Junli Cao, Vidit Goel, Chaoyang Wang, Anil Kag, Ju Hu, Sergei Korolev, Chenfanfu Jiang, Sergey Tulyakov, Jian Ren
-- **🏫 单位**：Snap Inc. ⟐ University of California, Los Angeles
-- **🔗 链接**：[[中英摘要](./abs/2406.19434.md)] [[arXiv:2406.19434](https://arxiv.org/abs/2406.19434)] [Code]
-- **📝 说明**：
+#### [1] OMNIPHYSGS: 3D CONSTITUTIVE GAUSSIANS FOR GENERAL PHYSICS-BASED DYNAMICS GENERATION
+- **🧑‍🔬 作者**： Yuchen Lin, Chenguo Lin, Jianjin Xu, Yadong Mu
+- **🏫 单位**：Peking University, Carnegie Mellon University
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2501.18982)] [[Code](https://wgsxm.github.io/projects/omniphysgs/)]
+- **📝 说明**：[ICLR 2025]

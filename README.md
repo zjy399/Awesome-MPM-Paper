@@ -218,7 +218,43 @@
 - **🏫 单位**： University of California,
 - **🔗 链接**：[[Paper](https://dl.acm.org/doi/pdf/10.1145/3570160)][[Code]]
 - **📝 说明**：[SA 2023]
+
+#### [36] PhysAnimator: Physics-Guided Generative Cartoon Animation 
+- **🧑‍🔬 作者**： Tianyi Xie,, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang
+- **🏫 单位**：  Netflix, UCLA
+- **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_PhysAnimator_Physics-Guided_Generative_Cartoon_Animation_CVPR_2025_paper.pdf)][[Code](https://xpandora.github.io/PhysAnimator/)]
+- **📝 说明**：[CVPR 2025]
+
+#### [37] Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion
+- **🧑‍🔬 作者**：Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan
+- **🏫 单位**： Tsinghua University, Stanford University
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2406.04338)][[Code](https://liuff19.github.io/Physics3D/)]
+- **📝 说明**：[Arxiv]
+
+#### [38] DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction
+- **🧑‍🔬 作者**：Miaowei Wang, Yibo Zhang, Rui Ma, Weiwei Xu, Changqing Zou, Daniel Morris,
+- **🏫 单位**： The University of Edinburgh, Jilin University, Zhejiang University, Michigan State University
+- **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DecoupledGaussian_Object-Scene_Decoupling_for_Physics-Based_Interaction_CVPR_2025_paper.pdf)][[Code](https://wangmiaowei.github.io/DecoupledGaussian.github.io/)]
+- **📝 说明**：[CVPR 2025]
   
+#### [39] DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering
+- **🧑‍🔬 作者**：Jiaxu Wang, Jingkai Sun, Junhao He, Ziyi Zhang, Qiang Zhang, Mingyuan Sun, Renjing Xu
+- **🏫 单位**： Hong Kong University of Science and Technology, Beijing Innovation Center of Humanoid Robotics, Northeastern University
+- **🔗 链接**：[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/510cfd9945f8bde6f0cf9b27ff1f8a76-Paper-Conference.pdf)][[Code]]
+- **📝 说明**：[NeurIPS 2024]
+    
+#### [40] One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering
+- **🧑‍🔬 作者**：Yifan Zhu, Tianyi Xiang, Aaron M. Dollar, and Zherong Pan
+- **🏫 单位**： Yale University
+- **🔗 链接**：[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10982102)][[Code]]
+- **📝 说明**：[IEEE ROBOTICS ANDAUTOMATIONLETTERS]
+    
+#### [41] ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation
+- **🧑‍🔬 作者**：Jinsheng Quan Chunshi Wang YaweiLuo
+- **🏫 单位**： Zhejiang University
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2505.20270?)][[Code](https://github.com/QuanJinSheng/ParticleGS)]
+- **📝 说明**：[Axriv]
+
 # Survey
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey
 - **🧑‍🔬 作者**： Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, Siteng Huang, and Donglin Wang

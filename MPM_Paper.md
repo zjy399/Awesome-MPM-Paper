@@ -198,6 +198,12 @@
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2506.20936)][[Code](https://physrig.github.io/)]
 - **📝 说明**：[Arxiv]  
   
+#### [34] Neural Stress Fields for Reduced-order Elastoplasticity and Fracture
+- **🧑‍🔬 作者**：Zeshun Zong, Xuan Li, Minchen Li, Maurizio M. Chiaramonte, Wojciech Matusik, Eitan Grinspun, Kevin Carlberg, Chenfanfu Jiang, Peter Yichen Chen
+- **🏫 单位**： UCLA, MIT
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2310.17790)][[Code]]
+- **📝 说明**：[SA 2023]
+  
 # Survey
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey
 - **🧑‍🔬 作者**： Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, Siteng Huang, and Donglin Wang
@@ -215,3 +221,5 @@
 - **🧑‍🔬 作者**：Chenfanfu Jiang
 - **🏫 单位**：University of California
 - **🔗 链接**：[[Paper](https://phys-sim-book.github.io/preface.html)][[Code]]
+# Personal and Lab
+#### [1] UCLA Artificial Intelligence & Visual Computing Laboratory [[Website](https://www.math.ucla.edu/aivc/)]

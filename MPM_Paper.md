@@ -203,6 +203,12 @@
 - **🏫 单位**： UCLA, MIT
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2310.17790)][[Code]]
 - **📝 说明**：[SA 2023]
+
+#### [35] A Sparse Distributed Gigascale Resolution Material Point Method
+- **🧑‍🔬 作者**：Yuxing Qiu, Samuel Temple Reeve, Minchen Li, Yin Yang, Stuart Ryan Slattery, Chenfanfu Jiang
+- **🏫 单位**： University of California,
+- **🔗 链接**：[[Paper](https://dl.acm.org/doi/pdf/10.1145/3570160)][[Code]]
+- **📝 说明**：[SA 2023]
   
 # Survey
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey

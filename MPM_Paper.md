@@ -81,7 +81,7 @@
 #### [14]  Phys4DGen: Physics-Compliant 4D Generation with Multi-Material Composition Perception
 - **🧑‍🔬 作者**：Jiajing Lin, Zhenzhong Wang, Dejun Xu, Shu Jiang, YunPeng Gong, Min Jiang
 - **🏫 单位**：  School of Informatics, Xiamen University 
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.16800)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.16800)][[Code]]
 - **📝 说明**：[Arxiv]
 
 #### [15]  SOPHY: Learning to Generate Simulation-Ready Objects with Physical Materials
@@ -93,25 +93,25 @@
 #### [16]  Phy124: Fast Physics-Driven 4D Content Generation from a Single Image
 - **🧑‍🔬 作者**：Jiajing Lin, Zhenzhong Wang, Yongjie Hou, Yuzhou Tang, Min Jiang
 - **🏫 单位**：  Xiamen University
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2409.07179?)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2409.07179?)][[Code]]
 - **📝 说明**：[Arxiv]
 
 #### [17]  PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image
 - **🧑‍🔬 作者**：Han Yan, Mingrui Zhang, Yang Li, Chao Ma, Pan Ji
 - **🏫 单位**：  Shanghai Jiao Tong University, Tencent XR Vision Labs
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.18548)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.18548)][[Code]]
 - **📝 说明**：[Arxiv]
 
 #### [18] MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM
 - **🧑‍🔬 作者**：Siwei Meng, Yawei Luo, Ping Liu
 - **🏫 单位**：   University of Nevada Reno, Zhejiang University
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2505.16456?)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2505.16456?)][[Code]]
 - **📝 说明**：[Arxiv]
 
 #### [19] NeuMA: Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics
 - **🧑‍🔬 作者**：Junyi Cao, Shanyan Guan, Yanhao Ge, Wei Li, Xiaokang Yang, Chao Ma
 - **🏫 单位**：  Shanghai Jiao Tong University,  vivo Mobile Communication 
-- **🔗 链接**：[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/78b6beab44f92adc74ac1fdb212ac3a0-Paper-Conference.pdf)]
+- **🔗 链接**：[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/78b6beab44f92adc74ac1fdb212ac3a0-Paper-Conference.pdf)][[Code]]
 - **📝 说明**：[NeurIPS 2024]
   
 #### [20]  Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation
@@ -123,25 +123,25 @@
 #### [21]  Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Hao Liu, Minglin Chen, Yanni Ma, Haihong Xiao, Ying He
 - **🏫 单位**： Nanyang Technological University, SunYat-Sen University, South China University of Technology
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.18667)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.18667)][[Code]]
 - **📝 说明**：[Arxiv]
   
 #### [22] AGaussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing
 - **🧑‍🔬 作者**：Zhaonan Wang, Manyi Li, Changhe Tu
 - **🏫 单位**：  Shandong University
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2508.01740)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2508.01740)][[Code]]
 - **📝 说明**：[Arxiv]
   
 #### [23] Articulated Kinematics Distillation from Video Diffusion Models
 - **🧑‍🔬 作者**：Xuan Li, Qianli Ma, Tsung-Yi Lin, Yongxin Chen, Chenfanfu Jiang, Ming-Yu Liu, Donglai Xiang;
 - **🏫 单位**： UCLA, NVIDIA
-- **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Articulated_Kinematics_Distillation_from_Video_Diffusion_Models_CVPR_2025_paper.pdf)]
+- **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Articulated_Kinematics_Distillation_from_Video_Diffusion_Models_CVPR_2025_paper.pdf)][[Code]]
 - **📝 说明**：[CVPR 2025]
     
 #### [24]  Vid2Sim: Generalizable, Video-based Reconstruction of Appearance, Geometry and Physics for Mesh-free Simulation
 - **🧑‍🔬 作者**： Chuhao Chen, Zhiyang Dou, Chen Wang, Yiming Huang, Anjun Chen, Qiao Feng, Jiatao Gu,Lingjie Liu
 - **🏫 单位**： University of Pennsylvania,The University of Hong Kong,Zhejiang University
-- **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Vid2Sim_Generalizable_Video-based_Reconstruction_of_Appearance_Geometry_and_Physics_for_CVPR_2025_paper.pdf)][[Code](https://czzzzh.github.io/Vid2Sim/)]
+- **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Vid2Sim_Generalizable_Video-based_Reconstruction_of_Appearance_Geometry_and_Physics_for_CVPR_2025_paper.pdf)][[Code](https://czzzzh.github.io/Vid2Sim/)][[Code]]
 - **📝 说明**：[CVPR 2025]
 
 #### [25]  DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors
@@ -171,25 +171,25 @@
 #### [29] Editable Mesh Animations Modeling Based on Controlable Particles for Real-Time XR
 - **🧑‍🔬 作者**：Xiangyang Zhou; Yanrui Xu; Chao Yao; Xiaokun Wang; Xiaojuan Ban
 - **🏫 单位**：University of Science and Technology Beijing
-- **🔗 链接**：[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10919203)]
+- **🔗 链接**：[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10919203)][[Code]]
 - **📝 说明**：[IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS]
 
 #### [30] Surgical embodied intelligence for generalized task autonomy in laparoscopic robot-assisted surgery
 - **🧑‍🔬 作者**： Yonghao Long, Anran Lin, Derek Hang Chun Kwok, Lin Zhang, Zhenya Yang, Kejian Shi, Lei Song, Jiawei Fu, Hongbin Lin, Wang Wei, Kai Chen, Xiangyu Chu, Yang Hu, Hon Chi Yip, Philip Wai Yan Chiu, Peter Kazanzides, Russell H. Taylor, Yunhui Liu, Zihan Chen, Zerui Wang,  Samuel Kwok Wai Au, Qi Dou
 - **🏫 单位**：chinese University of Hong Kong
-- **🔗 链接**：[[Paper](https://www.science.org/doi/pdf/10.1126/scirobotics.adt3093)]
+- **🔗 链接**：[[Paper](https://www.science.org/doi/pdf/10.1126/scirobotics.adt3093)][[Code]]
 - **📝 说明**：[Science RoboticS]
 
 #### [31] MASIV: Toward Material-Agnostic System Identification from Videos
 - **🧑‍🔬 作者**：Yizhou Zhao, Haoyu Chen, Chunjiang Liu, Zhenyang Li, Charles Herrmann, Junhwa Hur, Yinxiao Li, Ming-Hsuan Yang, Bhiksha Raj, Min Xu
 - **🏫 单位**：Carnegie Mellon University, University of Alabama at Birmingham, Google, UC Merce
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2508.01112?)][[Code](https://github.com/Skaldak/MASIV)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2508.01112?)][[Code](https://github.com/Skaldak/MASIV)][[Code]]
 - **📝 说明**：[Arxiv]  
 
 #### [32] SplatVoxel: History-Aware Novel View Streaming without Temporal Training
 - **🧑‍🔬 作者**：Yiming Wang, Lucy Chai, Xuan Luo, Michael Niemeyer, Manuel Lagunas, Stephen Lombardi, Siyu Tang, Tiancheng Sun
 - **🏫 单位**：ETHZurich, Google
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2503.14698)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2503.14698)][[Code]]
 - **📝 说明**：[Arxiv]
 
 #### [33] PhysRig: Differentiable Physics-Based Skinning and Rigging Framework for Realistic Articulated Object Modeling
@@ -202,16 +202,16 @@
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey
 - **🧑‍🔬 作者**： Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, Siteng Huang, and Donglin Wang
 - **🏫 单位**： Huazhong University of Science and Technology, Westlake University, Shandong University, Tsinghua University, Zhejiang University
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2503.21765?)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2503.21765?)][[Code]]
   
 #### [2]  From 2D to 3D Cognition: A Brief Survey of General World Models
 - **🧑‍🔬 作者**：Ningwei Xie, Zizi Tian, Lei Yang, Xiao-Ping Zhang, Meng Guo, Jie Li
 - **🏫 单位**：ChinaMobile Research Institute
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2506.20134)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2506.20134)][[Code]]
   
 
 # BooK
 #### [1] Physics-Based Simulation
 - **🧑‍🔬 作者**：Chenfanfu Jiang
 - **🏫 单位**：University of California
-- **🔗 链接**：[[Paper](https://phys-sim-book.github.io/preface.html)]
+- **🔗 链接**：[[Paper](https://phys-sim-book.github.io/preface.html)][[Code]]

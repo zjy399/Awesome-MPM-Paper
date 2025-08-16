@@ -63,7 +63,7 @@
 #### [11]  Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos
 - **🧑‍🔬 作者**：Kaifeng Zhang, Baoyu Li, Kris Hauser, Yunzhu Li
 - **🏫 单位**：  Columbia University, University of Illinois Urbana-Champaign
-- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2506.15680)] [[Code](https://kywind.github.io/pgnd)] [[Demo(https://huggingface.co/spaces/kaifz/pgnd)]
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2506.15680)] [[Code](https://kywind.github.io/pgnd)] [[Demo](https://huggingface.co/spaces/kaifz/pgnd)]
 - **📝 说明**：[Robotics: Science and Systems (RSS), 2025]
 
 #### [12]  MiraGe: Editable 2D Images using Gaussian Splatting

@@ -246,6 +246,18 @@
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2505.20270?)][[Code](https://github.com/QuanJinSheng/ParticleGS)]
 - **📝 说明**：[Axriv]
 
+  #### [42] PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation
+- **🧑‍🔬 作者**：Tianyuan Zhang, Hong-Xing Yu, Rundi Wu, Brandon Y. Feng, Changxi Zheng, Noah Snavely, Jiajun Wu, William T. Freeman
+- **🏫 单位**： Massachusetts Institute of Technology, Stanford University,Columbia University,Cornell University
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2404.13026)][[Code](https://physdreamer.github.io/)]
+- **📝 说明**：[ECCV 2024]
+
+  #### [43] Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models
+- **🧑‍🔬 作者**：Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis
+- **🏫 单位**：NVIDIA, Vector Institute, University of Toronto, MIT
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2312.13763)][[Code](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)]
+- **📝 说明**：[CVPR 2024]
+  
 # Survey
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey
 - **🧑‍🔬 作者**： Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, Siteng Huang, and Donglin Wang

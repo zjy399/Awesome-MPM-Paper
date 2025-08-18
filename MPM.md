@@ -275,6 +275,10 @@
 - **🧑‍🔬 作者**：Chenfanfu Jiang
 - **🏫 单位**：University of California
 - **🔗 链接**：[[Paper](https://phys-sim-book.github.io/preface.html)][[Code]]
+#### [2] The Material Point Method for Simulating Continuum Materials
+- **🧑‍🔬 作者**：Chenfanfu Jiang, Craig Schroeder, Joseph Teran,
+- **🏫 单位**：University of California
+- **🔗 链接**：[[Paper](https://www.math.ucla.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)][[Code]]
 # Personal and Lab
 #### [1] UCLA Artificial Intelligence & Visual Computing Laboratory [[Website](https://www.math.ucla.edu/aivc/)]
 

@@ -258,6 +258,12 @@
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2312.13763)][[Code](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)]
 - **📝 说明**：[CVPR 2024]
   
+  #### [44] Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation
+- **🧑‍🔬 作者**：Zhuoman Liu, Weicai Ye, Yan Luximon, Pengfei Wan, Di Zhang
+- **🏫 单位**：The Hong Kong Polytechnic University, Kuaishou Technology
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.14423)][[Code](https://zhuomanliu.github.io/PhysFlow/)]
+- **📝 说明**：[CVPR 2025]
+  
 # Survey
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey
 - **🧑‍🔬 作者**： Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, Siteng Huang, and Donglin Wang

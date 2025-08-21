@@ -6,7 +6,7 @@
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2501.18982)] [[Code](https://wgsxm.github.io/projects/omniphysgs/)]
 - **📝 说明**：[ICLR 2025]
   
-#### [2] PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
+#### 🌻[2] PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 - **🧑‍🔬 作者**： Tianyi Xie, Zeshun Zong, Yuxing Qiu, Xuan Li, Yutao Feng, Yin Yang, Chenfanfu Jiang
 - **🏫 单位**：University of California, Zhejiang University, University of Utah
 - **🔗 链接**：[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_PhysGaussian_Physics-Integrated_3D_Gaussians_for_Generative_Dynamics_CVPR_2024_paper.pdf)] [[Code](https://xpandora.github.io/PhysGaussian/)]
@@ -18,7 +18,7 @@
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.12789)] [[Code](https://sim-gs.github.io/)]
 - **📝 说明**：[ICCV 2025]
 
-- #### [4] Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling
+- #### 🌻[4] Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling
 - **🧑‍🔬 作者**：Mingtong Zhang, Kaifeng Zhang, Yunzhu Li
 - **🏫 单位**：University of Illinois Urbana-Champaign, Columbia University
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2410.18912?)] [[Code](https://gs-dynamics.github.io)]

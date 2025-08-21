@@ -288,4 +288,5 @@
 # Personal and Lab
 #### [1] UCLA Artificial Intelligence & Visual Computing Laboratory [[Website](https://www.math.ucla.edu/aivc/)]
 #### [2] AMPLE: A Material Point Learning Environment [[Website](https://wmcoombs.github.io/)]
+#### [3] Joseph M. Teran [[Website](https://math.ucdavis.edu/~jteran/)]
 

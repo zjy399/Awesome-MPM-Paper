@@ -264,6 +264,12 @@
 - **🔗 链接**：[[Paper](https://arxiv.org/pdf/2411.14423)][[Code](https://zhuomanliu.github.io/PhysFlow/)]
 - **📝 说明**：[CVPR 2025]
   
+  #### [45] Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing
+- **🧑‍🔬 作者**：Ri-Zhao Qiu, Ge Yang, Weijia Zeng, Xiaolong Wang
+- **🏫 单位**：UC San Diego, MIT, IAIFI
+- **🔗 链接**：[[Paper](https://arxiv.org/pdf/2404.01223)][[Code](https://github.com/vuer-ai/feature-splatting-inria)]
+- **📝 说明**：[ECCV 2024]
+  
 # Survey
 #### [1]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey
 - **🧑‍🔬 作者**： Minghui Lin, Xiang Wang, Yishan Wang, Shu Wang, Fengqi Dai, Pengxiang Ding, Cunxiang Wang, Zhengrong Zuo, Nong Sang, Siteng Huang, and Donglin Wang
